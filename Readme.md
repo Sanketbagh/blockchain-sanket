@@ -1,6 +1,6 @@
-### Deployed smartcontract address: 0x7e4b3964dd0c0370782d42d607231c6bdf432bcf9661659a45abff53b9155fd5
 
-### Screenshot: ![alt text](image.png)
+### Screenshot: ![image](https://github.com/user-attachments/assets/6035f2af-1769-4741-9381-825edda29fc5)
+
 
 # DAO Voting Platform
 
